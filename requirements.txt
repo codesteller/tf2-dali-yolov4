@@ -1,4 +1,12 @@
+tensorflow
+argparse-utils
+absl-py
+Pillow
+PyYAML
 Cython
 matplotlib
 tensorflow-addons==0.11.2
 pycocotools
+numpy 
+opencv-python 
+ffmpeg-python
